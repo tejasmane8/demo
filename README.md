@@ -2,4 +2,4 @@
 # demo
 This is my first Git repository.
 <br>
-Author - Tejas Mane
+Author - Tejas Mane(girl)
